@@ -1,5 +1,5 @@
 # Netflix-Movies-Project
-Movies analysis and application of advanced methods in Pandas(Python)
+Investigating Netflix Movies by application of advanced methods in Pandas(Python)
 
 <center><img src="redpopcorn.jpg"></center>
 
